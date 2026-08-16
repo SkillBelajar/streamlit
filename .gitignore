@@ -1,3 +1,5 @@
 
 /kasir_sawit/venv
 *.db
+/guru_acak/venv
+/koordinator_kokurikuler/venv
